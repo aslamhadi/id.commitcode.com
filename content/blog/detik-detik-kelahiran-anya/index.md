@@ -23,6 +23,8 @@ Jam 05:30 istri sakitnya mulai bertambah. Suster kemudian menambah kecepatan ind
 
 Pukul 06:00 sudah bukaan 1. Setengah jam kemudian bukaan 2. Pukul 07:30 bukaan 4 dan akhirnya istri dipindahkan ke ruangan melahirkan. Saya mulai khawatir.
 
+![worry](./tumblr.gif)
+
 Mulai detik itu istri mulai kesakitan yang kalau kata Mario Teguh “Super sekali”. Keringat mulai bercucuran dari keningnya, setiap 10 detik teriak-teriak. Dan suster mulai ngobrol tentang rumahnya yang jauh dari RS (yap, you read that right).
 
 Pukul 08:00 sudah bukaan 6. Teriakan makin heboh, tangan saya mulai didorong-dorong oleh istri. Suster menenangkan istri “Ibu simpan tenaganya, jangan teriak-teriak. Si dedek ga dapat oksigen kalo ibu panik. Yuk napasnya diatur.” Ok suster berhasil menenangkan istri sesekali, seringkali istri masih teriak yang saya yakin terdengar sampai ujung lorong. Be strong my wife…
@@ -38,3 +40,5 @@ Proses persalinan istri cepat, hanya 15 menit, maksimal 20 menit. Setelah bayi l
 Proses selanjutnya dilanjutkan dengan proses menjahit. Sambil menjahit dokter ini mengobrol dengan susternya dengan topik.. you guess it… yap,, suster yang rumahnya jauh dari rs. Saya penasaran apakah topik ini sedang trending di Twitter.
 
 So here we go, Anya Kamila Ghaisani, putri pertama kami 🙂
+
+![Anya Kamila](./anya-baby.jpg)
