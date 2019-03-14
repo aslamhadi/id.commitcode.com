@@ -9,31 +9,6 @@ function Bio() {
     <StaticQuery
       query={bioQuery}
       render={data => {
-        const { social } = data.site.siteMetadata;
-        return (
-          <div
-            style={{
-              display: `flex`,
-              marginBottom: rhythm(2.5)
-            }}
-          >
-            <p>
-              Jurnal dalam bahasa Indonesia oleh
-              {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>@aslamhadi</a>
-            </p>
-          </div>
-        );
-      }}
-    />
-  );
-}
-
-function Komentar() {
-  return (
-    <StaticQuery
-      query={bioQuery}
-      render={data => {
         const { author, social } = data.site.siteMetadata;
         return (
           <div
@@ -56,7 +31,7 @@ function Komentar() {
               }}
             />
             <p style={{ paddingTop: 10 }}>
-              Komentar dan saran silakan mention
+              Jurnal dalam bahasa Indonesia
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>@aslamhadi</a>
             </p>
@@ -88,4 +63,3 @@ const bioQuery = graphql`
 `;
 
 export default Bio;
-export { Komentar };
